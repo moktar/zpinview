@@ -1,0 +1,4 @@
+com/moktar/zpinview/sample/databinding/ActivityMainBinding.java
+ com.moktar.zpinview.sample.databinding.ActivityMainBinding
+com/moktar/zpinview/sample/BuildConfig.java
+ com.moktar.zpinview.sample.BuildConfig

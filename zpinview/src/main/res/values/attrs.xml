@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PinViewTheme">
+        <attr name="pinViewViewStyle" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="PinView">
+        <attr name="viewType" format="enum">
+            <enum name="line" value="1" />
+            <enum name="rectangle" value="2" />
+            <enum name="circle" value="3" />
+        </attr>
+        <attr name="pinLength" format="integer" />
+        <attr name="mask" format="string" />
+        <attr name="borderColor" format="color" />
+        <attr name="borderThickness" format="integer" />
+        <attr name="backgroundColor" format="color" />
+    </declare-styleable>
+</resources>

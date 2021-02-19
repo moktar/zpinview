@@ -1,0 +1,2 @@
+com/moktar/zpinview/BuildConfig.java
+ com.moktar.zpinview.BuildConfig

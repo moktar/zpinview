@@ -1,0 +1,3 @@
+include ':zpinview'
+include ':sample'
+rootProject.name = "ZPinView"
