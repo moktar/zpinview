@@ -8,12 +8,12 @@
         "source": "/home/moktar/AndroidStudioProjects/kotlin-projects/pin-view/ZPinView/sample/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/moktar/AndroidStudioProjects/kotlin-projects/pin-view/ZPinView/sample/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/moktar/AndroidStudioProjects/kotlin-projects/pin-view/ZPinView/sample/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/moktar/AndroidStudioProjects/kotlin-projects/pin-view/ZPinView/sample/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/home/moktar/AndroidStudioProjects/kotlin-projects/pin-view/ZPinView/sample/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/moktar/AndroidStudioProjects/kotlin-projects/pin-view/ZPinView/sample/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/moktar/AndroidStudioProjects/kotlin-projects/pin-view/ZPinView/sample/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/home/moktar/AndroidStudioProjects/kotlin-projects/pin-view/ZPinView/sample/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
