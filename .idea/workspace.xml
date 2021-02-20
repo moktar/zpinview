@@ -12,15 +12,24 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f78af82a-a123-462e-9569-5253b60b38ab" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="f78af82a-a123-462e-9569-5253b60b38ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[88fc04d]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -48,8 +57,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -164,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613776314248</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1613777782418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613777782419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +188,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -180,10 +208,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="266" width="251" height="270" key="#Notifications" timestamp="1613777843589">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="552" y="266" width="251" height="270" key="#Notifications/0.27.1366.741@0.27.1366.741" timestamp="1613777843589" />
     <state x="203" y="132" width="950" height="537" key="#PSD" timestamp="1613770174401">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -204,6 +239,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="499" y="189" width="357" height="423" key="AndroidCreateXmlResourceDialog/0.27.1366.741@0.27.1366.741" timestamp="1613770533310" />
+    <state x="120" y="27" width="1115" height="741" key="CommitChangelistDialog2" timestamp="1613777781675">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="120" y="27" width="1115" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1613777781675" />
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1613769159542">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -228,10 +267,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1613776181825" />
-    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1613777270678">
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1613778450401">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1613777270678" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1613778450401" />
     <state x="349" y="83" width="648" height="642" key="psd.add.module.dependency.panel.dimension" timestamp="1613770167842">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
